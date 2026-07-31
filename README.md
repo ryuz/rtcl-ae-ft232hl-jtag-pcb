@@ -6,6 +6,10 @@
 
 ![PCBイメージ](images/pcb_image.png)
 
+一本づつ繋がなくて良くなるので、抜き差しがとても楽になります。
+
+![before_after](images/before_after.png)
+
 
 ## 免責事項
 
