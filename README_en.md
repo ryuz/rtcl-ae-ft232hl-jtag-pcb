@@ -27,4 +27,4 @@ If you would like to manufacture and sell this board commercially, please contac
 ## Author
 
 Ryuji Fuchikami  
-[Real-Time Computing Laboratory](https://rtc-lab.com/)
+[Real-Time Computing Lab.](https://rtc-lab.com/)
