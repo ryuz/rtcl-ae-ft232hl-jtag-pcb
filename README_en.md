@@ -12,6 +12,16 @@ You no longer need to connect each wire one by one, which makes plugging and unp
 
 ![before_after](images/before_after.png)
 
+## How to Use
+
+For better usability during operation, silkscreen is also printed on the solder side. When soldering connectors, be careful not to confuse the front and back sides.
+
+The side with reference labels such as J1/J2/J3 is the component side.
+
+On the FT232HL High-Speed USB Serial Converter Module, short only JP3, and **always leave JP4 open**.
+
+JP4 supplies I/O voltage, but this board is designed to receive voltage from the target board. If JP4 is connected, 3.3 V will also be supplied from the FT232HL side, which can cause a power rail conflict and may **damage the board**.
+
 ## Disclaimer
 
 This design data is intended for research and development prototypes and experimental use. Please note that the author will not compensate for any damages arising from its use.
